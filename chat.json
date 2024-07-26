@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"failure\", \"qna\": [], \"error\": \"ERROR on qna\", \"time_taken\": \"0:00:24.105898\"}",
+        "message_id": "guest26072024120610",
+        "timestamp": "26072024120635",
+        "component_file_name": "purple_header_component_1721995396",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Will add a button saying \"Hello World\".",
         "message_id": "guest26072024120610",
